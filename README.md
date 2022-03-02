@@ -6,4 +6,4 @@ Travis is a collection of visualizations created with Tableau which aims to aid 
 
 ![box](/images/box.png)
 
-![calendar](/images/box.png)
+![calendar](/images/calendar.png)
