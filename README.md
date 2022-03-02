@@ -8,7 +8,7 @@ Visualizations were created using hotel booking records, which includes features
 
 ## Pie Charts
 ![piechart](/images/pie.png)
-These pie charts illustrate the general distribution of different features among the dataset. Clicking on certain area of the pie chart updates the preceding charts by acting as a filter. The filter on the right can also be used to limit the data to a specific country,
+These pie charts illustrate the general distributions of different features among the dataset. Clicking on certain areas of the pie chart updates the preceding charts by acting as filters. The filter on the right can also be used to limit the data to a specific country.
 
 ## Daily Rates with box plots
 ![box](/images/box.png)
@@ -16,4 +16,4 @@ The distribution of the daily rates are shown on the box plot on the right. The 
 
 ## Booking Distribution
 ![calendar](/images/calendar.png)
-The distribution of the booking records are displayed on the calendar, with red representing days with higher demand and blue showing less demanding days. The bar graph on the bottom right gives insight on how many days prior to the travel we should book the room in order to obtain the best deal for the bookings. 
+The distribution of the booking records are displayed on the calendar, with red representing the days with higher demand and blue showing less demanding days. The bar graph on the bottom right gives insight on how many days prior to the travel we should book the room in order to obtain the best deal for the bookings. 
