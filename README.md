@@ -1,6 +1,6 @@
 # Travis
 
-[link to Tableau public](https://public.tableau.com/views/6730_proj_final/Story2?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Tableau Public](https://public.tableau.com/views/6730_proj_final/Story2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## What is Travis
 Travis is a collection of interactive visualizations created using Tableau, which aims to help future travelers to plan their trips to the Western Europe.
